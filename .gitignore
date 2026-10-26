@@ -1,0 +1,14 @@
+# Variables de entorno y configuración sensible
+config.env
+.env
+*.env
+
+# Notas personales
+notes.txt
+
+# Archivos temporales
+temp/
+temp-file.txt
+*.tmp
+*.log
+thumbs.db
